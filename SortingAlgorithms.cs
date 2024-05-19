@@ -164,6 +164,10 @@ namespace algo_worshop
 
 
     
+// add more sorting algorithms 
+// remove the quicksort algorithm and the merge sort and replace it with a new sorting algorithm 
+// try and make the main method as useful as it should be
+// you've got this brother mi 
 
 
      

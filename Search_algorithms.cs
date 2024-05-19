@@ -11,7 +11,6 @@ namespace algo_worshop
         //thisssssssssssssssssssssssssssssssssssssssssssss
         public static int binary_search_algorithm(int[] inputArray, int key)
         {
-
             int min = 0;
             int max = inputArray.Length - 1;
             while (min <= max)
